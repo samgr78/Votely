@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "795632806788",
+    "project_id": "votely-ee1e2",
+    "storage_bucket": "votely-ee1e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795632806788:android:0a0b04dfbf6fe8078e0bd1",
+        "android_client_info": {
+          "package_name": "com.example.votely"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAQfKNJ2-5Y6nFMvPgUau9hNGh0coZ5dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
